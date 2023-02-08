@@ -9,4 +9,6 @@ Based on Pytorch instead of Keras.
 1) The model is not trained on all the data available at: http://spandh.dcs.shef.ac.uk/gridcorpus/ , due to heardware constraints ( donot have a discrete gpu and online gpu availabilities time out in between)
 2) Couldnt train for more epochs and fine-tuning is not carried out, again dur to hearware limitations 
 
+PS: If anybody having a gpu could train the model and share the weights. I would be very thankfull. :)
+
 
